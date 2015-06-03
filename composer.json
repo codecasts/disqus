@@ -1,0 +1,17 @@
+{
+    "name": "codecasts/disqus",
+    "description": "Disqus",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Hernandes",
+            "email": "diego@hernandev.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Codecasts\\Disqus\\": "src/"
+        }
+    },
+    "require": {}
+}
